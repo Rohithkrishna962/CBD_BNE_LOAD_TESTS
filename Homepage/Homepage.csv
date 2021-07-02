@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1624617701001,903,HTTP Request,200,OK,Thread Group 1-2,text,true,,8231,113,2,2,https://cbdbene.com/,886,0,733
+1624617700229,1674,HTTP Request,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,674 milliseconds, but should not have lasted longer than 1,200 milliseconds.",8231,113,2,2,https://cbdbene.com/,1657,0,1504
+1624617701998,427,HTTP Request,200,OK,Thread Group 1-3,text,true,,8231,113,1,1,https://cbdbene.com/,427,0,336
+1624617702998,322,HTTP Request,200,OK,Thread Group 1-4,text,true,,8231,113,1,1,https://cbdbene.com/,322,0,226
+1624617704004,298,HTTP Request,200,OK,Thread Group 1-5,text,true,,8231,113,1,1,https://cbdbene.com/,298,0,201

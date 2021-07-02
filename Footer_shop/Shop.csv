@@ -1,0 +1,216 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1624605410225,894,https://server1.cbdbene.com/Category/getData/topicals,200,OK,Thread Group 1-2,text,true,,976,365,2,2,https://server1.cbdbene.com/Category/getData/topicals,886,0,334
+1624605409538,1581,https://server1.cbdbene.com/Category/getData/topicals,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,581 milliseconds, but should not have lasted longer than 1,500 milliseconds.",976,365,2,2,https://server1.cbdbene.com/Category/getData/topicals,1573,0,1021
+1624605411220,486,https://server1.cbdbene.com/Category/getData/topicals,200,OK,Thread Group 1-3,text,true,,976,365,3,3,https://server1.cbdbene.com/Category/getData/topicals,486,0,197
+1624605412212,467,https://server1.cbdbene.com/Category/getData/topicals,200,OK,Thread Group 1-4,text,true,,976,365,4,4,https://server1.cbdbene.com/Category/getData/topicals,466,0,206
+1624605411129,1756,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-2,text,false,"The operation lasted too long: It took 1,756 milliseconds, but should not have lasted longer than 1,500 milliseconds.",204158,325,4,4,https://admin.cbdbene.com/products/api/all/,1361,0,272
+1624605411129,1852,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,852 milliseconds, but should not have lasted longer than 1,500 milliseconds.",204158,325,4,4,https://admin.cbdbene.com/products/api/all/,1396,0,279
+1624605412893,368,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-2,text,true,,34134,332,5,5,https://admin.cbdbene.com/products/api/combos/all/,302,0,0
+1624605411710,1671,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-3,text,false,"The operation lasted too long: It took 1,671 milliseconds, but should not have lasted longer than 1,500 milliseconds.",204158,325,5,5,https://admin.cbdbene.com/products/api/all/,1257,0,155
+1624605413264,268,https://server1.cbdbene.com/Seo/get/topicals,200,OK,Thread Group 1-2,text,true,,721,356,5,5,https://server1.cbdbene.com/Seo/get/topicals,268,0,0
+1624605412983,550,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-1,text,true,,34134,332,5,5,https://admin.cbdbene.com/products/api/combos/all/,469,0,0
+1624605413207,432,https://server1.cbdbene.com/Category/getData/topicals,200,OK,Thread Group 1-5,text,true,,976,365,5,5,https://server1.cbdbene.com/Category/getData/topicals,432,0,164
+1624605413383,295,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-3,text,true,,34134,332,5,5,https://admin.cbdbene.com/products/api/combos/all/,281,0,0
+1624605413535,294,https://server1.cbdbene.com/Seo/get/topicals,200,OK,Thread Group 1-1,text,true,,721,356,5,5,https://server1.cbdbene.com/Seo/get/topicals,293,0,0
+1624605413680,314,https://server1.cbdbene.com/Seo/get/topicals,200,OK,Thread Group 1-3,text,true,,721,356,5,5,https://server1.cbdbene.com/Seo/get/topicals,314,0,0
+1624605412682,1447,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-4,text,true,,204158,325,5,5,https://admin.cbdbene.com/products/api/all/,930,0,184
+1624605414130,807,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-4,text,true,,34134,332,5,5,https://admin.cbdbene.com/products/api/combos/all/,664,0,0
+1624605414938,423,https://server1.cbdbene.com/Seo/get/topicals,200,OK,Thread Group 1-4,text,true,,721,356,5,5,https://server1.cbdbene.com/Seo/get/topicals,423,0,0
+1624605413643,2353,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-5,text,false,"The operation lasted too long: It took 2,353 milliseconds, but should not have lasted longer than 1,500 milliseconds.",204158,325,5,5,https://admin.cbdbene.com/products/api/all/,1531,0,199
+1624605415997,572,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-5,text,true,,34134,332,5,5,https://admin.cbdbene.com/products/api/combos/all/,496,0,0
+1624605413833,1888,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,888 milliseconds, but should not have lasted longer than 1,500 milliseconds.",671490,346,5,5,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,380,0,194
+1624605413997,2032,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,200,OK,Thread Group 1-3,text,false,"The operation lasted too long: It took 2,032 milliseconds, but should not have lasted longer than 1,500 milliseconds.",671490,346,5,5,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,462,0,181
+1624605413536,1868,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,200,OK,Thread Group 1-2,text,false,"The operation lasted too long: It took 1,868 milliseconds, but should not have lasted longer than 1,500 milliseconds.",671490,346,5,5,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,500,0,310
+1624605415365,1347,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,200,OK,Thread Group 1-4,text,true,,671490,346,5,5,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,527,0,366
+1624605416570,416,https://server1.cbdbene.com/Seo/get/topicals,200,OK,Thread Group 1-5,text,true,,721,356,5,5,https://server1.cbdbene.com/Seo/get/topicals,415,0,0
+1624605416632,397,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,200,OK,Thread Group 1-3,text,true,,116523,344,5,5,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,90,0,0
+1624605416632,518,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,200,OK,Thread Group 1-2,text,true,,116523,344,5,5,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,325,0,0
+1624605416632,429,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,200,OK,Thread Group 1-1,text,true,,116523,344,5,5,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,105,0,0
+1624605416715,348,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,200,OK,Thread Group 1-4,text,true,,116523,344,5,5,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,133,0,0
+1624605416989,1154,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,200,OK,Thread Group 1-5,text,true,,671490,346,5,5,https://cbdbene.com/_next/static/css/e430d04d.44a8d421.chunk.css,371,0,215
+1624605418149,176,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,200,OK,Thread Group 1-5,text,true,,116523,344,5,5,https://cbdbene.com/_next/static/css/styles.8f3ea9a7.chunk.css,89,0,0
+1624605417337,1044,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605417337,1052,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605417337,1071,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605417337,1109,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605418382,290,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-2,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,289,0,0
+1624605418391,284,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-1,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,284,0,0
+1624605418411,268,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-3,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,268,0,0
+1624605418448,273,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-4,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,273,0,0
+1624605418673,302,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605418676,299,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605418682,293,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605418328,691,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605418723,465,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605418978,279,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-1,text,true,,731,352,5,5,https://server1.cbdbene.com/Seo/get/home,279,0,0
+1624605418977,280,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-2,text,true,,731,352,5,5,https://server1.cbdbene.com/Seo/get/home,280,0,0
+1624605418978,279,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-3,text,true,,731,352,5,5,https://server1.cbdbene.com/Seo/get/home,279,0,0
+1624605419021,270,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-5,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,269,0,0
+1624605419189,255,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-4,text,true,,731,352,5,5,https://server1.cbdbene.com/Seo/get/home,255,0,0
+1624605419259,276,https://server1.cbdbene.com/Category/getData/pets,200,OK,Thread Group 1-2,text,true,,4489,361,5,5,https://server1.cbdbene.com/Category/getData/pets,276,0,0
+1624605419259,277,https://server1.cbdbene.com/Category/getData/pets,200,OK,Thread Group 1-3,text,true,,4489,361,5,5,https://server1.cbdbene.com/Category/getData/pets,277,0,0
+1624605419258,282,https://server1.cbdbene.com/Category/getData/pets,200,OK,Thread Group 1-1,text,true,,4489,361,5,5,https://server1.cbdbene.com/Category/getData/pets,282,0,0
+1624605419292,265,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605419446,271,https://server1.cbdbene.com/Category/getData/pets,200,OK,Thread Group 1-4,text,true,,4489,361,5,5,https://server1.cbdbene.com/Category/getData/pets,270,0,0
+1624605419558,246,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-5,text,true,,731,352,5,5,https://server1.cbdbene.com/Seo/get/home,246,0,0
+1624605419805,502,https://server1.cbdbene.com/Category/getData/pets,200,OK,Thread Group 1-5,text,true,,4489,361,5,5,https://server1.cbdbene.com/Category/getData/pets,502,0,0
+1624605419718,895,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605419538,1075,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605419537,1076,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605419541,1090,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605420615,408,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605420633,390,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605420615,408,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605420615,468,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605420313,793,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605421025,306,https://server1.cbdbene.com/Seo/get/pets,200,OK,Thread Group 1-2,text,true,,710,352,5,5,https://server1.cbdbene.com/Seo/get/pets,305,0,0
+1624605421025,306,https://server1.cbdbene.com/Seo/get/pets,200,OK,Thread Group 1-1,text,true,,710,352,5,5,https://server1.cbdbene.com/Seo/get/pets,306,0,0
+1624605421025,306,https://server1.cbdbene.com/Seo/get/pets,200,OK,Thread Group 1-4,text,true,,710,352,5,5,https://server1.cbdbene.com/Seo/get/pets,305,0,0
+1624605421085,271,https://server1.cbdbene.com/Seo/get/pets,200,OK,Thread Group 1-3,text,true,,710,352,5,5,https://server1.cbdbene.com/Seo/get/pets,271,0,0
+1624605421108,299,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605421409,330,https://server1.cbdbene.com/Seo/get/pets,200,OK,Thread Group 1-5,text,true,,710,352,5,5,https://server1.cbdbene.com/Seo/get/pets,330,0,0
+1624605421358,893,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605421332,919,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605421741,625,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605421332,1057,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605422253,270,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-3,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605422253,273,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-1,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605421332,1263,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605422368,256,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-5,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605422390,264,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-4,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605422524,286,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605422597,279,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-2,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605422626,277,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605422655,281,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605422527,459,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605422811,275,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605422877,280,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605422905,255,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605422938,276,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605422987,256,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605423087,264,https://server1.cbdbene.com/Category/getData/edibles,200,OK,Thread Group 1-3,text,true,,980,364,5,5,https://server1.cbdbene.com/Category/getData/edibles,264,0,0
+1624605423158,265,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605423161,265,https://server1.cbdbene.com/Category/getData/edibles,200,OK,Thread Group 1-5,text,true,,980,364,5,5,https://server1.cbdbene.com/Category/getData/edibles,265,0,0
+1624605423215,269,https://server1.cbdbene.com/Category/getData/edibles,200,OK,Thread Group 1-4,text,true,,980,364,5,5,https://server1.cbdbene.com/Category/getData/edibles,269,0,0
+1624605423244,266,https://server1.cbdbene.com/Category/getData/edibles,200,OK,Thread Group 1-1,text,true,,980,364,5,5,https://server1.cbdbene.com/Category/getData/edibles,266,0,0
+1624605423424,364,https://server1.cbdbene.com/Category/getData/edibles,200,OK,Thread Group 1-2,text,true,,980,364,5,5,https://server1.cbdbene.com/Category/getData/edibles,363,0,0
+1624605423353,1151,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605423428,1076,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605423512,992,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605423485,1052,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605423790,872,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605424507,266,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605424507,277,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605424507,286,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605424540,307,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605424664,269,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605424774,260,https://server1.cbdbene.com/Seo/get/edibles,200,OK,Thread Group 1-3,text,true,,807,355,5,5,https://server1.cbdbene.com/Seo/get/edibles,260,0,0
+1624605424785,257,https://server1.cbdbene.com/Seo/get/edibles,200,OK,Thread Group 1-5,text,true,,807,355,5,5,https://server1.cbdbene.com/Seo/get/edibles,256,0,0
+1624605424795,254,https://server1.cbdbene.com/Seo/get/edibles,200,OK,Thread Group 1-1,text,true,,807,355,5,5,https://server1.cbdbene.com/Seo/get/edibles,254,0,0
+1624605424848,256,https://server1.cbdbene.com/Seo/get/edibles,200,OK,Thread Group 1-4,text,true,,807,355,5,5,https://server1.cbdbene.com/Seo/get/edibles,256,0,0
+1624605424934,259,https://server1.cbdbene.com/Seo/get/edibles,200,OK,Thread Group 1-2,text,true,,807,355,5,5,https://server1.cbdbene.com/Seo/get/edibles,259,0,0
+1624605425036,1108,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605425050,1094,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605425043,1101,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605425195,950,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605425105,1039,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605426146,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-1,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605426146,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-4,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605426146,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-5,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605426146,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-2,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605426146,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-3,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605426762,611,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605426762,611,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605426762,611,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605426762,611,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605426762,611,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605427375,613,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605427375,614,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605427375,614,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605427375,614,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605427375,614,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605427991,307,https://server1.cbdbene.com/Category/getData/capsules,200,OK,Thread Group 1-4,text,true,,988,365,5,5,https://server1.cbdbene.com/Category/getData/capsules,307,0,0
+1624605427991,307,https://server1.cbdbene.com/Category/getData/capsules,200,OK,Thread Group 1-5,text,true,,988,365,5,5,https://server1.cbdbene.com/Category/getData/capsules,307,0,0
+1624605427991,307,https://server1.cbdbene.com/Category/getData/capsules,200,OK,Thread Group 1-2,text,true,,988,365,5,5,https://server1.cbdbene.com/Category/getData/capsules,307,0,0
+1624605427991,307,https://server1.cbdbene.com/Category/getData/capsules,200,OK,Thread Group 1-3,text,true,,988,365,5,5,https://server1.cbdbene.com/Category/getData/capsules,307,0,0
+1624605427991,307,https://server1.cbdbene.com/Category/getData/capsules,200,OK,Thread Group 1-1,text,true,,988,365,5,5,https://server1.cbdbene.com/Category/getData/capsules,307,0,0
+1624605428301,1325,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605428300,1326,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605428300,1326,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605428300,1326,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605428301,1325,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605429627,305,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605429627,305,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605429626,306,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605429627,308,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605429627,319,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605429936,302,https://server1.cbdbene.com/Seo/get/capsules,200,OK,Thread Group 1-4,text,true,,302,356,5,5,https://server1.cbdbene.com/Seo/get/capsules,302,0,0
+1624605429933,305,https://server1.cbdbene.com/Seo/get/capsules,200,OK,Thread Group 1-3,text,true,,302,356,5,5,https://server1.cbdbene.com/Seo/get/capsules,305,0,0
+1624605429933,305,https://server1.cbdbene.com/Seo/get/capsules,200,OK,Thread Group 1-5,text,true,,302,356,5,5,https://server1.cbdbene.com/Seo/get/capsules,305,0,0
+1624605429947,291,https://server1.cbdbene.com/Seo/get/capsules,200,OK,Thread Group 1-1,text,true,,302,356,5,5,https://server1.cbdbene.com/Seo/get/capsules,291,0,0
+1624605429933,305,https://server1.cbdbene.com/Seo/get/capsules,200,OK,Thread Group 1-2,text,true,,302,356,5,5,https://server1.cbdbene.com/Seo/get/capsules,305,0,0
+1624605430240,1023,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605430240,1023,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605430240,1023,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605430240,1023,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605430240,1023,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605431265,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-5,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605431265,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-1,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605431265,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-4,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605431265,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-3,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605431265,614,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-2,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605431880,304,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605431880,306,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605431880,314,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605431880,325,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605431880,334,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605432187,613,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605432216,584,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605432185,615,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605432195,605,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605432207,593,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605432802,307,https://server1.cbdbene.com/Category/getData/oils,200,OK,Thread Group 1-4,text,true,,8485,361,5,5,https://server1.cbdbene.com/Category/getData/oils,307,0,0
+1624605432802,309,https://server1.cbdbene.com/Category/getData/oils,200,OK,Thread Group 1-3,text,true,,8485,361,5,5,https://server1.cbdbene.com/Category/getData/oils,309,0,0
+1624605432802,311,https://server1.cbdbene.com/Category/getData/oils,200,OK,Thread Group 1-1,text,true,,8485,361,5,5,https://server1.cbdbene.com/Category/getData/oils,311,0,0
+1624605432802,314,https://server1.cbdbene.com/Category/getData/oils,200,OK,Thread Group 1-2,text,true,,8485,361,5,5,https://server1.cbdbene.com/Category/getData/oils,314,0,0
+1624605432802,315,https://server1.cbdbene.com/Category/getData/oils,200,OK,Thread Group 1-5,text,true,,8485,361,5,5,https://server1.cbdbene.com/Category/getData/oils,315,0,0
+1624605433112,1325,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605433118,1319,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605433110,1327,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605433115,1322,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605433118,1319,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,379,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605434439,305,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605434439,305,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605434439,305,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605434439,315,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605434439,325,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,385,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605434745,615,https://server1.cbdbene.com/Seo/get/oils,200,OK,Thread Group 1-5,text,true,,726,352,5,5,https://server1.cbdbene.com/Seo/get/oils,615,0,0
+1624605434745,615,https://server1.cbdbene.com/Seo/get/oils,200,OK,Thread Group 1-2,text,true,,726,352,5,5,https://server1.cbdbene.com/Seo/get/oils,615,0,0
+1624605434765,595,https://server1.cbdbene.com/Seo/get/oils,200,OK,Thread Group 1-4,text,true,,726,352,5,5,https://server1.cbdbene.com/Seo/get/oils,595,0,0
+1624605434745,615,https://server1.cbdbene.com/Seo/get/oils,200,OK,Thread Group 1-3,text,true,,726,352,5,5,https://server1.cbdbene.com/Seo/get/oils,615,0,0
+1624605434755,605,https://server1.cbdbene.com/Seo/get/oils,200,OK,Thread Group 1-1,text,true,,726,352,5,5,https://server1.cbdbene.com/Seo/get/oils,605,0,0
+1624605435362,1328,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-2,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605435363,1327,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605435362,1328,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-5,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605435362,1328,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-3,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605435362,1328,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-4,,true,,221,409,5,5,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624605436692,612,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-4,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605436692,612,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-3,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605436692,612,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-1,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605436692,612,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-2,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605436692,612,https://server1.cbdbene.com/Home/get,304,Not Modified,Thread Group 1-5,,true,,220,401,5,5,https://server1.cbdbene.com/Home/get,0,0,0
+1624605437306,613,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-3,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605437306,613,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-4,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605437306,613,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-1,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605437307,612,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-5,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605437307,612,https://admin.cbdbene.com/products/api/combos/all/,304,Not Modified,Thread Group 1-2,,true,,220,415,5,5,https://admin.cbdbene.com/products/api/combos/all/,0,0,0
+1624605437921,305,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605437921,305,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605437921,305,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605437921,305,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605437921,305,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624605409247,27423,Test,,"Number of samples in transaction : 42, number of failing samples : 3",Thread Group 1-1,,false,,1061847,16030,5,5,null,7401,1555,1494
+1624605410222,26503,Test,,"Number of samples in transaction : 42, number of failing samples : 2",Thread Group 1-2,,false,,1061847,16030,5,5,null,6955,1503,916
+1624605411217,26019,Test,,"Number of samples in transaction : 42, number of failing samples : 2",Thread Group 1-3,,false,,1061847,16030,5,5,null,6045,992,533
+1624605413204,24936,Test,,"Number of samples in transaction : 42, number of failing samples : 1",Thread Group 1-5,,false,,1061847,16030,5,5,null,6744,87,578
+1624605412209,25670,Test,200,"Number of samples in transaction : 42, number of failing samples : 0",Thread Group 1-4,,true,,1061847,16030,5,5,null,6282,349,756

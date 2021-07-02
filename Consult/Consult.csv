@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1624598554563,4307,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 4,307 milliseconds, but should not have lasted longer than 1,200 milliseconds.",204158,355,1,1,https://admin.cbdbene.com/products/api/all/,2189,0,797
+1624598558875,1462,https://server1.cbdbene.com/Seo/get/consult,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,462 milliseconds, but should not have lasted longer than 1,200 milliseconds.",717,355,1,1,https://server1.cbdbene.com/Seo/get/consult,1461,0,745
+1624598560340,283,https://server1.cbdbene.com/Seo/get/consult,304,Not Modified,Thread Group 1-1,,true,,219,407,1,1,https://server1.cbdbene.com/Seo/get/consult,0,0,0
+1624598560626,261,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-1,text,true,,731,352,1,1,https://server1.cbdbene.com/Seo/get/home,261,0,0
+1624598560888,1071,https://admin.cbdbene.com/products/api/all/,304,Not Modified,Thread Group 1-1,,true,,221,379,1,1,https://admin.cbdbene.com/products/api/all/,0,0,0
+1624598561960,279,https://server1.cbdbene.com/Shop/get,200,OK,Thread Group 1-1,text,true,,602,348,1,1,https://server1.cbdbene.com/Shop/get,279,0,0
+1624598562240,695,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-1,text,true,,34134,332,1,1,https://admin.cbdbene.com/products/api/combos/all/,636,0,0
+1624598562937,516,https://server1.cbdbene.com/Seo/get/shop,200,OK,Thread Group 1-1,text,true,,835,352,1,1,https://server1.cbdbene.com/Seo/get/shop,515,0,0
+1624598563454,317,https://server1.cbdbene.com/Banner/getData/shop,200,OK,Thread Group 1-1,text,true,,614,359,1,1,https://server1.cbdbene.com/Banner/getData/shop,317,0,0
+1624598563773,486,https://server1.cbdbene.com/Banner/getData/shop,304,Not Modified,Thread Group 1-1,,true,,219,411,1,1,https://server1.cbdbene.com/Banner/getData/shop,0,0,0
+1624598554492,9677,Test,,"Number of samples in transaction : 10, number of failing samples : 2",Thread Group 1-1,,false,,242450,3650,1,1,null,5658,91,1542

@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1624533494965,895,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-1,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,893,0,631
+1624533495864,274,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-1,text,true,,347,451,2,2,https://admin.cbdbene.com/subscribedData/add,274,0,0
+1624533494895,1169,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,694,902,2,2,null,1167,73,631
+1624533495897,433,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-2,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,433,0,171
+1624533496333,397,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-2,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,397,0,0
+1624533495896,830,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,694,902,1,1,null,830,5,171
+1624533496896,475,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-3,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,474,0,144
+1624533497373,285,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-3,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,285,0,0
+1624533496893,760,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,694,902,1,1,null,759,6,144
+1624533497884,446,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-4,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,446,0,164
+1624533498332,328,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-4,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,328,0,0
+1624533497883,774,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,694,902,1,1,null,774,4,164
+1624533498884,407,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-5,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,407,0,143
+1624533499292,319,https://admin.cbdbene.com/subscribedData/add,200,OK,Thread Group 1-5,text,true,,347,451,1,1,https://admin.cbdbene.com/subscribedData/add,319,0,0
+1624533498882,726,Test,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,694,902,1,1,null,726,4,143

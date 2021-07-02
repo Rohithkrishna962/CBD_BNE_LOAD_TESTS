@@ -1,0 +1,106 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1624600002478,901,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,200,OK,Thread Group 1-1,text,true,,325,382,1,1,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,899,0,621
+1624600003413,425,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,200,OK,Thread Group 1-2,text,true,,325,382,2,2,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,425,0,151
+1624600003384,541,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-1,text,true,,731,352,2,2,https://server1.cbdbene.com/Seo/get/home,540,0,285
+1624600003842,548,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-2,text,true,,731,352,2,2,https://server1.cbdbene.com/Seo/get/home,548,0,137
+1624600003925,465,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,200,OK,Thread Group 1-1,text,true,,706,380,2,2,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,465,0,0
+1624600004392,275,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,304,Not Modified,Thread Group 1-1,,true,,218,433,3,3,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,0,0,0
+1624600004407,408,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,200,OK,Thread Group 1-3,text,true,,325,382,3,3,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,408,0,140
+1624600004392,461,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,200,OK,Thread Group 1-2,text,true,,706,380,3,3,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,461,0,0
+1624600004668,266,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,3,3,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600004854,257,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,304,Not Modified,Thread Group 1-2,,true,,218,433,3,3,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,0,0,0
+1624600004820,438,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-3,text,true,,731,352,3,3,https://server1.cbdbene.com/Seo/get/home,438,0,166
+1624600005112,267,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,3,3,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600004935,473,https://admin.cbdbene.com/wishlist/api/byuser/,200,OK,Thread Group 1-1,text,true,,339,462,4,4,https://admin.cbdbene.com/wishlist/api/byuser/,473,0,0
+1624600005409,265,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,4,4,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600005260,454,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,200,OK,Thread Group 1-3,text,true,,706,380,4,4,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,454,0,0
+1624600005380,447,https://admin.cbdbene.com/wishlist/api/byuser/,200,OK,Thread Group 1-2,text,true,,339,462,4,4,https://admin.cbdbene.com/wishlist/api/byuser/,447,0,0
+1624600005398,429,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,200,OK,Thread Group 1-4,text,true,,325,382,4,4,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,429,0,170
+1624600005716,267,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,304,Not Modified,Thread Group 1-3,,true,,218,433,4,4,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,0,0,0
+1624600005828,271,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,4,4,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600005676,468,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-1,,true,,219,432,4,4,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600005984,252,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,4,4,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600005830,406,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-4,text,true,,731,352,4,4,https://server1.cbdbene.com/Seo/get/home,406,0,145
+1624600006145,281,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600006102,451,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-2,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600006238,459,https://admin.cbdbene.com/wishlist/api/byuser/,200,OK,Thread Group 1-3,text,true,,339,462,5,5,https://admin.cbdbene.com/wishlist/api/byuser/,459,0,0
+1624600006427,277,https://admin.cbdbene.com/users/api/profile/password/,200,OK,Thread Group 1-1,text,true,,347,723,5,5,https://admin.cbdbene.com/users/api/profile/password/,277,0,0
+1624600006238,466,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,200,OK,Thread Group 1-4,text,true,,706,380,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,466,0,0
+1624600006393,401,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,200,OK,Thread Group 1-5,text,true,,325,382,5,5,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,401,0,148
+1624600006553,253,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600006698,271,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600006705,271,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,304,Not Modified,Thread Group 1-4,,true,,218,433,5,5,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,0,0,0
+1624600006807,261,https://admin.cbdbene.com/users/api/profile/password/,200,OK,Thread Group 1-2,text,true,,347,723,5,5,https://admin.cbdbene.com/users/api/profile/password/,261,0,0
+1624600006705,473,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-1,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600006795,429,https://server1.cbdbene.com/Seo/get/home,200,OK,Thread Group 1-5,text,true,,731,352,5,5,https://server1.cbdbene.com/Seo/get/home,429,0,170
+1624600006977,257,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600006970,448,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-3,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600007068,483,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-2,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600007180,463,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-1,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600007420,261,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600007226,455,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,200,OK,Thread Group 1-5,text,true,,706,380,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,455,0,0
+1624600007236,451,https://admin.cbdbene.com/wishlist/api/byuser/,200,OK,Thread Group 1-4,text,true,,339,462,5,5,https://admin.cbdbene.com/wishlist/api/byuser/,451,0,0
+1624600007644,261,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600007681,263,https://admin.cbdbene.com/users/api/profile/password/,200,OK,Thread Group 1-3,text,true,,347,723,5,5,https://admin.cbdbene.com/users/api/profile/password/,263,0,0
+1624600007681,265,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,304,Not Modified,Thread Group 1-5,,true,,218,433,5,5,https://admin.cbdbene.com/order/api/getbyuser/60d2c7fc87ceae855aae18a5,0,0,0
+1624600007687,264,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600007553,446,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-2,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600007947,279,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600007999,252,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600007906,447,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-1,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600007945,469,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-3,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600007952,462,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-4,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600008228,443,https://admin.cbdbene.com/wishlist/api/byuser/,200,OK,Thread Group 1-5,text,true,,339,462,5,5,https://admin.cbdbene.com/wishlist/api/byuser/,443,0,0
+1624600008416,270,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600008253,444,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-2,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600008354,467,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-1,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600008416,460,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-3,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600008686,258,https://admin.cbdbene.com/users/api/profile/password/,200,OK,Thread Group 1-4,text,true,,347,723,5,5,https://admin.cbdbene.com/users/api/profile/password/,258,0,0
+1624600008672,272,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600008822,275,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600008698,436,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-2,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600008878,266,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600009135,262,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600008945,455,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-5,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600008945,455,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-4,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600009144,449,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-3,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600009401,255,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600009401,458,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-4,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600009657,267,https://admin.cbdbene.com/users/api/profile/password/,200,OK,Thread Group 1-5,text,true,,347,723,5,5,https://admin.cbdbene.com/users/api/profile/password/,267,0,0
+1624600009594,456,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-3,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600009860,275,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600010052,540,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600009926,726,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-5,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600010136,1047,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-4,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600010653,1081,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-5,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600011184,1321,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-4,,false,"The operation lasted too long: It took 1,321 milliseconds, but should not have lasted longer than 1,200 milliseconds.",219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600011734,1269,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,false,"The operation lasted too long: It took 1,269 milliseconds, but should not have lasted longer than 1,200 milliseconds.",219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600009098,4028,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 4,028 milliseconds, but should not have lasted longer than 1,200 milliseconds.",204158,355,5,5,https://admin.cbdbene.com/products/api/all/,1202,0,0
+1624600012508,1055,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600013129,870,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-1,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,870,0,0
+1624600013005,1080,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-5,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600009398,4823,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-2,text,false,"The operation lasted too long: It took 4,823 milliseconds, but should not have lasted longer than 1,200 milliseconds.",204158,355,5,5,https://admin.cbdbene.com/products/api/all/,1976,0,0
+1624600014223,907,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-2,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,907,0,0
+1624600014086,1163,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,304,Not Modified,Thread Group 1-5,,true,,219,432,5,5,https://admin.cbdbene.com/users/api/profile/60d2c7fb87ceae855aae18a4,0,0,0
+1624600010593,4706,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-3,text,false,"The operation lasted too long: It took 4,706 milliseconds, but should not have lasted longer than 1,200 milliseconds.",204158,355,5,5,https://admin.cbdbene.com/products/api/all/,2214,0,0
+1624600014000,1498,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 1,498 milliseconds, but should not have lasted longer than 1,200 milliseconds.",34134,362,5,5,https://admin.cbdbene.com/products/api/combos/all/,904,0,0
+1624600015250,640,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600015302,679,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-3,text,true,,9902,348,5,5,https://server1.cbdbene.com/Home/get,679,0,0
+1624600015498,986,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-1,,true,,219,404,5,5,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600002407,13980,Test,,"Number of samples in transaction : 20, number of failing samples : 2",Thread Group 1-1,,false,,253269,8381,5,5,null,5630,96,906
+1624600015131,1754,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-2,text,false,"The operation lasted too long: It took 1,754 milliseconds, but should not have lasted longer than 1,200 milliseconds.",34134,362,4,4,https://admin.cbdbene.com/products/api/combos/all/,1073,0,0
+1624600015982,1782,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-3,text,false,"The operation lasted too long: It took 1,782 milliseconds, but should not have lasted longer than 1,200 milliseconds.",34134,362,4,4,https://admin.cbdbene.com/products/api/combos/all/,1031,0,0
+1624600016886,921,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-2,,true,,219,404,4,4,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600003410,14369,Test,,"Number of samples in transaction : 20, number of failing samples : 2",Thread Group 1-2,,false,,253269,8381,4,4,null,6098,29,288
+1624600013564,4681,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-4,text,false,"The operation lasted too long: It took 4,681 milliseconds, but should not have lasted longer than 1,200 milliseconds.",204158,355,3,3,https://admin.cbdbene.com/products/api/all/,2125,0,0
+1624600017765,722,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-3,,true,,219,404,3,3,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600004406,14050,Test,,"Number of samples in transaction : 20, number of failing samples : 2",Thread Group 1-3,,false,,253269,8381,3,3,null,5946,32,306
+1624600018248,860,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-4,text,true,,9902,348,2,2,https://server1.cbdbene.com/Home/get,860,0,0
+1624600015891,3975,https://admin.cbdbene.com/products/api/all/,200,OK,Thread Group 1-5,text,false,"The operation lasted too long: It took 3,975 milliseconds, but should not have lasted longer than 1,200 milliseconds.",204158,355,2,2,https://admin.cbdbene.com/products/api/all/,2390,0,0
+1624600019110,1049,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-4,text,true,,34134,362,2,2,https://admin.cbdbene.com/products/api/combos/all/,875,0,0
+1624600019867,383,https://server1.cbdbene.com/Home/get,200,OK,Thread Group 1-5,text,true,,9902,348,2,2,https://server1.cbdbene.com/Home/get,383,0,0
+1624600020162,274,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-4,,true,,219,404,2,2,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600005395,15009,Test,,"Number of samples in transaction : 20, number of failing samples : 2",Thread Group 1-4,,false,,253269,8381,2,2,null,5870,32,315
+1624600020251,734,https://admin.cbdbene.com/products/api/combos/all/,200,OK,Thread Group 1-5,text,true,,34134,362,1,1,https://admin.cbdbene.com/products/api/combos/all/,573,0,0
+1624600020986,360,https://server1.cbdbene.com/Seo/get/home,304,Not Modified,Thread Group 1-5,,true,,219,404,1,1,https://server1.cbdbene.com/Seo/get/home,0,0,0
+1624600006391,14932,Test,,"Number of samples in transaction : 20, number of failing samples : 2",Thread Group 1-5,,false,,253269,8381,1,1,null,5341,24,318

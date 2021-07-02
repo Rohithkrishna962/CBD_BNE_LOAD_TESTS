@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.62452E+12,915,https://admin.cbdbene.com/users/api/register/,200,OK,Thread Group 1-2,text,TRUE,,364,588,2,2,https://admin.cbdbene.com/users/api/register/,906,0,616
+1.62452E+12,1553,https://admin.cbdbene.com/users/api/register/,200,OK,Thread Group 1-1,text,FALSE,"The operation lasted too long: It took 1,553 milliseconds, but should not have lasted longer than 1,200 milliseconds.",364,588,2,2,https://admin.cbdbene.com/users/api/register/,1544,0,1255
+1.62452E+12,915,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,TRUE,,364,588,2,2,null,906,8,616
+1.62452E+12,1553,Test,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,FALSE,,364,588,2,2,null,1544,343,1255
+1.62452E+12,744,https://admin.cbdbene.com/users/api/register/,200,OK,Thread Group 1-3,text,TRUE,,364,588,1,1,https://admin.cbdbene.com/users/api/register/,744,0,204
+1.62452E+12,744,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,TRUE,,364,588,1,1,null,744,4,204
+1.62452E+12,442,https://admin.cbdbene.com/users/api/register/,200,OK,Thread Group 1-4,text,TRUE,,364,588,1,1,https://admin.cbdbene.com/users/api/register/,442,0,186
+1.62452E+12,442,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,TRUE,,364,588,1,1,null,442,5,186
+1.62452E+12,561,https://admin.cbdbene.com/users/api/register/,200,OK,Thread Group 1-5,text,TRUE,,364,588,1,1,https://admin.cbdbene.com/users/api/register/,561,0,209
+1.62452E+12,561,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,TRUE,,364,588,1,1,null,561,4,209
